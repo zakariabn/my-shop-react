@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "62487b944ff27183063bddc9",
+    "product_index": 3,
+    "discription": "irure amet occaecat amet ullamco adipisicing aliqua qui sint amet aliqua sit enim eiusmod adipisicing sunt nulla ex minim incididunt",
+    "price": "$48.15",
+    "shipping": "$10.99",
+    "ratting": 5,
+    "img": "https://apollotran.b-cdn.net/prestashop/leo_tracy/themes/leo_tracy/assets/img/modules/appagebuilder/images/banner3.jpg",
+    "quantity": 1,
+    "color_family": "brown",
+    "name": "Brown top"
+  },
+  {
+    "_id": "62487b941b9dfb1de6ac9b93",
+    "product_index": 4,
+    "discription": "in quis eiusmod adipisicing nulla commodo est dolor quis incididunt reprehenderit cillum eu sit dolor fugiat elit nostrud laborum quis",
+    "price": "$82.54",
+    "shipping": "$13.99",
+    "ratting": 5,
+    "img": "https://apollotran.b-cdn.net/prestashop/leo_tracy/40-home_default/printed-chiffon-dress.jpg",
+    "quantity": 1,
+    "color_family": "yellow",
+    "name": "Printed chiffon dress"
+  },
+  {
+    "_id": "62487b94a7023216d2b42d2f",
+    "product_index": 6,
+    "discription": "dolor in qui velit dolore aliquip id irure nostrud labore aliqua tempor Lorem laboris enim ullamco quis commodo exercitation quis",
+    "price": "$56.25",
+    "shipping": "$6.89",
+    "ratting": 4,
+    "img": "https://apollotran.b-cdn.net/prestashop/leo_tracy/44-home_default/printed-summer-dress.jpg",
+    "quantity": 1,
+    "color_family": "mix",
+    "name": "Printed summer dress"
+  },
+  {
+    "_id": "62487b94e1a670890a76b2c1",
+    "product_index": 9,
+    "discription": "ea sunt quis in nostrud consequat excepteur eiusmod aliquip veniam in commodo reprehenderit adipisicing occaecat dolor cupidatat laboris excepteur proident",
+    "price": "$50.79",
+    "shipping": "$12.19",
+    "ratting": 5,
+    "img": "https://apollotran.b-cdn.net/prestashop/leo_tracy/37-home_default/printed-summer-dress.jpg",
+    "quantity": 1,
+    "color_family": "black",
+    "name": "Printed summer dress"
+  }
+]
