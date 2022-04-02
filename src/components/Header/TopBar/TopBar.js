@@ -12,7 +12,7 @@ import {
 
 const TopBar = () => {
   return (
-    <div className="flex justify-between px-5 py-2 bg-[#f1f1f3] border-b border-gray-400">
+    <div className="flex w-full max-w-screen-xl justify-between px-5 py-2 bg-[#f1f1f3] border-b border-gray-400">
       <ul className="flex gap-5">
         <li className="text-gray-500">
           <FontAwesomeIcon icon={faLock} />
